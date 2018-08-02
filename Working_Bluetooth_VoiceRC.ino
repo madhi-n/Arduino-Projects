@@ -1,4 +1,4 @@
-//Coded By: Yash Malik
+//Coded By: Yash Malik & Madhi Nagarajan
 //Voice Activated Arduino (Bluetooth + Android)
 #include <SoftwareSerial.h>
 SoftwareSerial BT(10, 11); // RX | TX
